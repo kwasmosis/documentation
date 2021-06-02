@@ -1,6 +1,6 @@
 # Using Blocks
 
-In Drupal, blocks are snippets of content that can be placed on pages within your website's layout. Some examples of blocks
+In Islandora, blocks are snippets of content that can be placed on pages within your website's layout. Some examples of blocks
 are your site's menu, breadcrumbs, search block, etc...  You have a lot of control over when and where you see blocks using
 Drupal's administrative interface.   You can create and delete blocks, as well as move them around in different locations 
 on the page (called 'regions' in Drupal theme terminology).  You can also control on which pages the blocks are visible,
